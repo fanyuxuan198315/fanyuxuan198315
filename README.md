@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+你好，各位开发者们！我是一位初中编程爱好者，练习语言C++，项目做的不是很好，欢迎给出建议和修改，谢谢！！！
+联系邮箱：fanyuxuan841@outlook.com或fanyuxuan841@gmail.com
 <!--
 **fanyuxuan198315/fanyuxuan198315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
