@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![fanyuxuan198315's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanyuxuan198315)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanyuxuan198315)](https://github.com/anuraghazra/github-readme-stats)
