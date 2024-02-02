@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![fanyuxuan198315's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanyuxuan198315)
-![fanyuxuan198315's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanyuxuan198315 GitHub ID&layout=compact&hide_border=true&langs_count=10)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanyuxuan198315=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
